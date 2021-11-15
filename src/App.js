@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <h1>Por joão Vasconcelos Simão</h1>
-          <h2>com muito amor! <3</h2>
+          <h2>com muito amor no coração!</h2>
         </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
